@@ -1,1 +1,5 @@
-{"status":"vote_validated","next_vote_timestamp":1766152429,"now":1766147029}
+{
+  "status":"vote_validated",
+  "next_vote_timestamp":1766152429,
+  "now":1766147029
+}
